@@ -1,0 +1,14 @@
+- HTTP là cách thức mà website được truyền tải, gửi request, nhận response
+- SSR: Server side rendering: tốt cho SEO
+- CSR: Client side rendering
+
+- Cài npm init
+
+- Cài express: npm install express
+
+- Gõ "node index.js" để khởi chạy server
+
+- Gõ "npm install nodemon --save-dev" để cài một tool auto reload page (giống live server)
+- Vào package.json, thêm "start": "nodemon --inspect index.js" vào "scripts"
+- Sau đó chạy server bằng npm start
+
